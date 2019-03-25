@@ -1,6 +1,6 @@
 <div class="entry-content">
 <div id="tab-description" class="plugin-description section">
-	<h2 id="description-header">Description</h2>
+	<h2 id="description-header">WP Disable Search</h2>
 	<p><strong>WP Disable Search</strong> Nothing required for this plugin, you just need to install and activate this plugin and check WordPress Default search is disabled.</p>
 <p>Prevent WordPress from allowing and handling any search requests for the site. Specifically, this plugin:</p>
 <ul>
